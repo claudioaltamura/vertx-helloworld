@@ -1,7 +1,7 @@
 # vertx-helloworld
 Vert.x helloworld example 
 
-###Getting started
+### Getting started
 
 Generate and Run in redeploy mode
 
